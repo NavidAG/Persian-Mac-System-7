@@ -1,6 +1,6 @@
 # Persian-Mac-System-7
 
-Long story short, we have discovered a never-before-seen version of the macintosh, which we have fully explained in [this article](example.com). 
+Long story short, we have discovered a never-before-seen version of the macintosh, which we have fully explained in [this article](https://medium.com/@TheUnitedTwins/the-lost-history-of-persian-macintosh-c2528694acd5). 
 
 ![Persian Macintosh System 7](screenshots/persian_macintosh_system_7.gif)
 
