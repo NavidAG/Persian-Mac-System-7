@@ -20,3 +20,4 @@ In order to get Macintosh Plus ROM, download the "Old World Mac ROMs" file from 
 3. Drag the `.dsk` file into the vMac window.
 
 **Et Voilla!**
+![Persian Macintosh System 7 Control Panel](control_panel.png)
